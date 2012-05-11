@@ -2,20 +2,28 @@
 
 ## Veranstaltungen
 
-+----------+-------------------+--------------+
-|Wiki      |Seite              |KoaLA         |
-+==========+===================+==============+
-|[KMS]()   |[KMS][kms_page]    |              |
-+----------+-------------------+--------------+
-|[GMW]()   |                   |[GMW][gmw_koa]|
-+----------+-------------------+--------------+
-|[SWTPra]()|[SWTPra][swtp_page]|              |
-+----------+-------------------+--------------+
-|[GDB]()   |[GDB][gdb_page]    |              |
-+----------+-------------------+--------------+
++----------+-------------------+------------------+-------------------+
+|Wiki      |Seite              |KoaLA             |PAUL               |
++==========+===================+==================+===================+
+|[KMS]()   |[KMS][kms_page]    |[KMS][kms_koa]    |[KMS][kms_paul]    |
++----------+-------------------+------------------+-------------------+
+|[GMW]()   |                   |[GMW][gmw_koa]    |[GMW][gmw_paul]    |
++----------+-------------------+------------------+-------------------+
+|[SWTPra]()|[SWTPra][swtp_page]|[SWTPra][swtp_koa]|[SWTPra][swtp_paul]|
++----------+-------------------+------------------+-------------------+
+|[GDB]()   |[GDB][gdb_page]    |[GDB][gdb_koa]    |[GDB][gdb_paul]    |
++----------+-------------------+------------------+-------------------+
 
 [kms_page]: http://www.cs.uni-paderborn.de/fachgebiete/fachgebiet-rechnernetze/lehre/lehreteaching-ss12/vl-konzepte-und-methoden-der-systemsoftware.html
 [gdb_page]: http://is.uni-paderborn.de/fachgebiete/fg-engels/lehre/ss12/grundlagen-von-datenbanken/aktuelles.html
 [swtp_page]: http://www.cs.uni-paderborn.de/fachgebiete/fachgebiet-softwaretechnik/lehre/lehrveranstaltungen/softwaretechnik-praktikum2012/home.html
 
+[kms_koa]: https://koala.uni-paderborn.de/semester/SS12/344727240886268/
 [gmw_koa]: https://koala.uni-paderborn.de/semester/SS12/344727505634322/
+[swtp_koa]: https://koala.uni-paderborn.de/groups/2598464/
+[gdb_koa]: https://koala.uni-paderborn.de/semester/SS12/344727341879287/
+
+[kms_paul]: https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N296257069262005,-N000434,-N340234307330236,-N344727240806267,-N344727266693461,-N0,-N000000000000000,-N0
+[gmw_paul]: https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N296257069262005,-N000440,-N340234307330236,-N344727505662321,-N344727534613301,-N0,-N000000000000000,-N0
+[swtp_paul]: https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N170744438047889,-N000459,-N340234307330236,-N344727432558305,-N344727445739964,-N0,-N0
+[gdb_paul]: https://koala.uni-paderborn.de/semester/SS12/344727341879287/
