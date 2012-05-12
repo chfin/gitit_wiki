@@ -22,3 +22,15 @@ Wiki       Seite               KoaLA              PAUL
 [gmw_paul]: https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N296257069262005,-N000440,-N340234307330236,-N344727505662321,-N344727534613301,-N0,-N000000000000000,-N0
 [swtp_paul]: https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N170744438047889,-N000459,-N340234307330236,-N344727432558305,-N344727445739964,-N0,-N0
 [gdb_paul]: https://koala.uni-paderborn.de/semester/SS12/344727341879287/
+
+# Stundenplan
+
+     Mo        Di             Mi Do                     Fr
+---- --------- -------------- -- ---------------------- -------
+9              [GDB]()           [SWTPra]()             [KMS]()
+11             [KMS PÜ](KMS)     [GDB PÜ]()/[GMW PÜ]()
+13             Pause             Pause
+14             [GMW]()           [KMS]()                [PHP-AG]()
+16   [MTG2]()                                           Klavier
+18            
+20   [HSO]()   [Band]()          Posaunenchor
