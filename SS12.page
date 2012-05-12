@@ -25,12 +25,12 @@ Wiki       Seite               KoaLA              PAUL
 
 # Stundenplan
 
-     Mo        Di             Mi Do                     Fr
----- --------- -------------- -- ---------------------- -------
-9              [GDB]()           [SWTPra]()             [KMS]()
-11             [KMS PÜ](KMS)     [GDB PÜ]()/[GMW PÜ]()
+     Mo        Di             Mi Do                          Fr
+---- --------- -------------- -- --------------------------- -------
+9              [GDB]()           [SWTPra]()                  [KMS]()
+11             [KMS PÜ](KMS)     [GDB PÜ](GDB)/[GMW PÜ](GMW)
 13             Pause             Pause
-14             [GMW]()           [KMS]()                [PHP-AG]()
-16   [MTG2]()                                           Klavier
+14             [GMW]()           [KMS]()                     [PHP-AG]()
+16   [MTG2]()                                                Klavier
 18            
 20   [HSO]()   [Band]()          Posaunenchor
