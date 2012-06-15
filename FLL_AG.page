@@ -1,0 +1,7 @@
+Das ganze läuft mit [NXC](http://bricxcc.sourceforge.net/nbc/).
+
+#NXC unter Linux:
+
+* NBC [runterladen](http://sourceforge.net/projects/bricxcc/files/) und nach `/usr/local/bin/` kopieren.
+* Rechner einrichten: siehe [hier](http://www.jclarsen.dk/index.php/guides/21-programming/52-using-nxc-on-linux) und [hier](http://bricxcc.sourceforge.net/nbc/doc/nxtlinux.txt)
+* kompilieren und laden mit: `nbc file.nxc -sm- -d -S=usb`
